@@ -246,7 +246,7 @@ retail chain:
 ✅ Python — EDA, 16 Charts (Matplotlib + Seaborn)
 ✅ Power BI — 4 Dashboards, DAX, Star Schema
 
-🔗 GitHub: [link daalo]
+🔗 GitHub:https://github.com/rohanrajkumar707910-hash/ZestMart-Analytics-System
 
 #DataAnalytics #Python #SQL #PowerBI #Excel
 #DataAnalyst #OpenToWork #ZestMart
