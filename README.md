@@ -219,34 +219,3 @@ Data Analytics Fresher | BA Student @ VGU CDOE (2028)
 🐙 [GitHub](https://github.com/rohanrajkumar707910-hash)
 
 > Open to Data Analyst Internships & Entry-Level Roles
-
-→ Commit changes click karo ✅
-
-STEP 5 — Final Check
-
-Repository kuch aisi dikhni chahiye:
-
-ZestMart-Analytics-System/
-├── 📁 Excel/
-├── 📁 SQL/
-├── 📁 Python/
-├── 📁 PowerBI/
-├── 📁 Charts/
-└── 📄 README.md  ← sabse important!
-STEP 6 — LinkedIn Pe Share Karo
-🚀 Excited to share my 20-day Data Analytics Project!
-
-📊 RetailPulse India — ZestMart Analytics System
-
-Built an end-to-end BI system on a fictional Indian
-retail chain:
-
-✅ Excel — 2,229 formulas, Pivot Tables, Macros
-✅ MySQL — 47 queries, Window Functions, CTEs
-✅ Python — EDA, 16 Charts (Matplotlib + Seaborn)
-✅ Power BI — 4 Dashboards, DAX, Star Schema
-
-🔗 GitHub:https://github.com/rohanrajkumar707910-hash/ZestMart-Analytics-System
-
-#DataAnalytics #Python #SQL #PowerBI #Excel
-#DataAnalyst #OpenToWork #ZestMart
